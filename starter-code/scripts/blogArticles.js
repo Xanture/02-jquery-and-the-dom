@@ -1,5 +1,5 @@
 'use strict';
-
+console.log('Booya');
 var rawData = [
   {
     title:       'Bacon Ipsum',
